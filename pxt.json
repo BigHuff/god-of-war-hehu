@@ -2,8 +2,7 @@
     "name": "God of War HeHu",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "project/Kratos": "pub:51602-28698-31698-94771"
+        "device": "*"
     },
     "files": [
         "main.blocks",
