@@ -1,0 +1,25 @@
+{
+    "name": "God of War HeHu",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "project/Kratos": "pub:51602-28698-31698-94771"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.17",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
